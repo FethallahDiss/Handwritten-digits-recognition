@@ -1,0 +1,13 @@
+1) Phase d'entrainement de modèle et optimisation  : base de données MNSIT or ImageNEt
+
+2) Phase industrialisation d'un modèle : 
+   a) Pickle  save chosen model 
+   b) Fonction predict(X) retourne une prédition à partir d'une image.jpeg   
+
+à l'intérieur de predict(X)  il y a preprocessing,  cleaning,  load model  et predict  
+
+3)  Création :  préparer le service FLASK API REST et le tester sur SOAP UI 
+Vous
+
+4)  développer un front end (site) minimaliste  : qui contient une fenetre de dessin + un bouton predict   
+5)  L'intégration    :  lier le front end au moteur python (service REST FLASK) 
